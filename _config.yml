@@ -1,7 +1,7 @@
-title               : Davide Badalotti
+title               : Pietro Scanzi
 description         : >-
-                      PhD student in computer science 
-                      and statistics at Università Bocconi (Milan)
+                      PhD student in Statistics and Computer Science
+			    at Bocconi University (Milan)
 baseurl             : ""
 repository          : YoussefRaafatNasry/portfolYOU
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -17,11 +17,11 @@ nav_exclude:
   - documentation/partials/**                           
 
 author:
-  name              : Davide Badalotti
+  name              : Pietro Scanzi
   image             : propic_site.jpeg
-  email             : davide.badalotti@phd.unibocconi.it
+  email             : pietro.scanzi@phd.unibocconi.it
   github            : Willinki
-  linkedin          : davidebadalotti
+  linkedin          : pietroscanzi
 
 ### Posts ###
 permalink: /blog/:title

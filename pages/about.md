@@ -7,19 +7,15 @@ weight: 1
 
 # **About Me**
 
-I am a PhD student in computer science and statistics at Università Bocconi (Milan).
+I am a PhD student in Statistics and Computer Science at Bocconi University (Milan).
 
-You can download my full [CV here]({{ site.url }}/resume.pdf).
+Here is my full [CV]({{ site.url }}/resume.pdf).
 
-Also, all my contacts are listed at the end of the page.
+My contacts are at the end of the page.
 
-Main Interests 🧙🏻‍♂️
+Research Interests 
 
-* Geometric machine learning on graphs and manifolds
-* Quantum machine learning
-* Time series analysis
-
-Also 👾
-
-* Member of the Free Software Foundation (and of the Church of Emacs)
-* GNU/Linux junkie
+* Theoretical Statistics
+* Computational Statistics
+* MCMC methods
+* Extreme Value Theory
