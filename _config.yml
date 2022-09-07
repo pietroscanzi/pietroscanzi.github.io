@@ -20,8 +20,8 @@ author:
   name              : Pietro Scanzi
   image             : propic_site.jpeg
   email             : pietro.scanzi@phd.unibocconi.it
-  github            : Willinki
-  linkedin          : pietroscanzi
+  github            : pietroscanzi
+  linkedin          : https://www.linkedin.com/in/pietro-scanzi-649a771a8/
 
 ### Posts ###
 permalink: /blog/:title
