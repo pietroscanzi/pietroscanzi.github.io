@@ -13,9 +13,9 @@ Here is my full [CV]({{ site.url }}/resume.pdf).
 
 My contacts are at the end of the page.
 
-Research Interests 
+Research Interests: 
 
-* Theoretical Statistics
-* Computational Statistics
-* MCMC methods
-* Extreme Value Theory
+* Theoretical Statistics;
+* Computational Statistics;
+* MCMC methods;
+* Extreme Value Theory.
