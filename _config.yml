@@ -1,5 +1,7 @@
 title               : Pietro Scanzi
-description         : PhD student in Statistics and Computer Science at Bocconi University (Milan)
+description         : >-
+                      PhD student in Statistics and Computer Science
+			    at Bocconi University (Milan)
 baseurl             : ""
 repository          : YoussefRaafatNasry/portfolYOU
 remote_theme        : YoussefRaafatNasry/portfolYOU
@@ -19,7 +21,7 @@ author:
   image             : propic_site.jpeg
   email             : pietro.scanzi@phd.unibocconi.it
   github            : pietroscanzi
-  linkedin          : https://www.linkedin.com/in/pietro-scanzi-649a771a8/
+  linkedin          : pietro-scanzi-649a771a8/
 
 ### Posts ###
 permalink: /blog/:title
