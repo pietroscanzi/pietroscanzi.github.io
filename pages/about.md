@@ -15,7 +15,6 @@ My contacts are at the end of the page.
 
 Research Interests: 
 
-* Theoretical Statistics;
-* Computational Statistics;
-* MCMC methods;
-* Extreme Value Theory.
+* Extreme Value Theory;
+* Methodological Statistics;
+* Computational Statistics.
